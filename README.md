@@ -37,6 +37,7 @@ How to fix:
 
 
 **Error 2 & 3**
+
 `Error 2 & 3` are caused due to installation errors. __These are warnings for not installing, so install.__
 
 How to fix
