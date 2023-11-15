@@ -4,7 +4,7 @@ ClickCrystals Editor Made by TutlaMC
 # Installation 
 
 **Normal**
-1. Go to `/build` folder.
+1. Go to `/dist` folder.
 2. Download the EXE
 3. Execute it!
 
