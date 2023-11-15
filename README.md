@@ -19,5 +19,5 @@ __If you belive us to be a **RAT** then install it this way__
 5. Close Terminal and download `main.py`
 6. Run `main.py` to see if it works [not necessary]
 7. Open Command Prompt on your folder
-8. do `pyinstaller --onefile main.py`
+8. do `pyinstaller --onefile --icon=icon.ico main.pyy`
 9. In the `dist` folder is your exe
