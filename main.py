@@ -10,7 +10,7 @@ class CCS_TextEditor:
             self.root = root
             self.root.title("CCS Text Editor")
 
-            root.iconbitmap("icon.ico")
+
 
 
             bg_color = "#2E2E2E"
@@ -91,7 +91,7 @@ class CCS_TextEditor:
         file_path = filedialog.asksaveasfilename(defaultextension=".ccs", initialdir=default_dir, filetypes=[("CCS files", "*.ccs"), ("All files", "*.*")])
 
         if file_path:
-            # Check if the directory exists, create it if needed
+
             if not os.path.exists(file_path):
                 messagebox.showerror("Install CC","Install: (ERROR:2) https://modrinth.com/mod/clickcrystals")
             script_dir = os.path.dirname(file_path)
